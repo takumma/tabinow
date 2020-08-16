@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.trello:rxlifecycle-kotlin:0.6.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e2a77daff4864e97badfd6322774e2d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e2a77daff4864e97badfd6322774e2d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle-kotlin/0.6.1/7fe35c76c433790d96be0ca9e6ed33582f7e6979/rxlifecycle-kotlin-0.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

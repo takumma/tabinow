@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="usuipinku">#ff89c4</color>
+    <color name="koipinku">#adadff</color>
+    <color name="colorAccent">#F17816</color>
+    <color name="title">#626262</color>
+    <color name="button">#F17816</color>
+    <color name="backcolor">#f9f4eb</color>
+
+</resources>

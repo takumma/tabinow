@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">tabinow home</string>
+    <string name="top1">たびなう</string>
+    <string name="ぼたん1">新規作成</string>
+    <string name="ぼたん2">続きから</string>
+    <string name="ぼたん3">フォトスポットを探す</string>
+    <string name="ぼたん4">戻る</string>
+    <string name="text1">フォトスポットを探す</string>
+    <string name="text2">何日間の旅？</string>
+    <string name="text3">旅行開始日</string>
+    <string name="text4">日数を入力</string>
+    <string name="text5">開始日を入力</string>
+    <string name="ぼたん5">次へ</string>
+    <string name="text6">伊勢市周辺のおすすめスポット</string>
+    <string name="text7">1.伊勢神宮</string>
+    <string name="top2">~あなたの旅をより快適に~</string>
+    <string name="hint1">ここに入力してね</string>
+    <string name="to_photo" />
+    <string name="text8">旅行する日</string>
+    <string name="am6">06:00</string>
+    <string name="am9">09:00</string>
+    <string name="pm0">12:00</string>
+    <string name="pm3">15:00</string>
+    <string name="pm6">18:00</string>
+    <string name="pm9">21:00</string>
+    <string name="hint2">目的地を入力</string>
+    <string name="no">-----</string>
+    <string name="spot">スポットを探す</string>
+    <string name="weather">天気を見る</string>
+    <string name="SpinnerPrompt">選択してください。</string>
+    <string name="trip_day">旅行する日を選択</string>
+    <string name="error">目的地が入力されていません</string>
+
+
+    <string name="weatherselect">天気を選択</string>
+    <string name="osusume">おすすめスポットを探す</string>
+    <string name="wikibutton">wiki</string>
+    <string name="picbutton">写真</string>
+
+
+</resources>

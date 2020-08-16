@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.example.tabinowhome"
+        android:targetSandboxVersion="1"
+        >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+            android:allowBackup="true"
+            android:icon="@drawable/tavinowicon"
+            android:label="@string/top1"
+            android:networkSecurityConfig="@xml/network_security_config"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            android:usesCleartextTraffic="true">
+        <activity android:name=".newdataActivity"></activity>
+        <activity android:name=".TizuActivity"></activity>
+        <activity android:name=".osusumeActivity"></activity>
+        <activity android:name=".TenkiHyoujiActivity"></activity>
+        <activity android:name=".MokutekitiActivity"></activity>
+        <activity android:name=".KensakuHyoujiActivity"></activity>
+        <activity android:name=".PhotoActivity"></activity>
+        <activity android:name=".TudukiActivity"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
